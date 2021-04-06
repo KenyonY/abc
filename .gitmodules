@@ -1,3 +1,6 @@
 [submodule "cpp_learning"]
 	path = cpp_learning
 	url = https://github.com/beidongjiedeguang/cpp_learning.git
+[submodule "guang"]
+	path = guang
+	url = https://github.com/beidongjiedeguang/guang.git
