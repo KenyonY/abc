@@ -4,3 +4,6 @@
 [submodule "guang"]
 	path = guang
 	url = https://github.com/beidongjiedeguang/guang.git
+[submodule "pixelshift"]
+	path = pixelshift
+	url = https://github.com/beidongjiedeguang/pixelshift.git
