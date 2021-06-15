@@ -7,3 +7,6 @@
 [submodule "pixelshift"]
 	path = pixelshift
 	url = https://github.com/beidongjiedeguang/pixelshift.git
+[submodule "NoteBook"]
+	path = NoteBook
+	url = https://github.com/beidongjiedeguang/NoteBook.git
